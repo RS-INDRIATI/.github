@@ -100,6 +100,7 @@ Our repositories contain components of our **Integrated Healthcare Information S
 **Digital Healthcare Excellence:**
 - ⭐ **5-Star Recognition from BPJS Kesehatan** - Recognized for exemplary digital transformation and optimal healthcare system integration
 - 🎯 **BPJS Integration Success** - Successfully implemented seamless integration with BPJS Kesehatan national health insurance system
+- 🌐 **SatuSehat National Health Data Exchange Integration** - Successfully integrated with Indonesia's national health information exchange system, enabling seamless data sharing and interoperability across healthcare facilities nationwide
 - 🌟 **Digital Transformation Leadership** - Pioneering digital healthcare innovation in Central Java region
 
 ### 🔒 Security & Compliance
@@ -234,6 +235,7 @@ Repositori kami berisi komponen dari **Sistem Informasi Kesehatan Terintegrasi**
 **Keunggulan Kesehatan Digital:**
 - ⭐ **Penghargaan Bintang 5 dari BPJS Kesehatan** - Diakui atas transformasi digital yang luar biasa dan integrasi sistem kesehatan yang optimal
 - 🎯 **Kesuksesan Integrasi BPJS** - Berhasil mengimplementasikan integrasi seamless dengan sistem asuransi kesehatan nasional BPJS Kesehatan
+- 🌐 **Integrasi SatuSehat Pertukaran Data Kesehatan Nasional** - Berhasil terintegrasi dengan sistem pertukaran informasi kesehatan nasional Indonesia, memungkinkan berbagi data yang seamless dan interoperabilitas di seluruh fasilitas kesehatan nasional
 - 🌟 **Kepemimpinan Transformasi Digital** - Pelopor inovasi kesehatan digital di kawasan Jawa Tengah
 
 ### 🔒 Keamanan & Kepatuhan
