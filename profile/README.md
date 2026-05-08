@@ -10,7 +10,7 @@
 
 Welcome to the official GitHub organization of **RS Indriati Boyolali**. We are pioneering digital transformation in Indonesian healthcare through cutting-edge software engineering and integrated healthcare information systems.
 
-As a leading healthcare institution, we are committed to developing robust, scalable, and secure digital solutions that enhance patient care, streamline clinical workflows, and support evidence-based medical decision-making.
+As a leading healthcare institution, we are committed to developing robust, scalable, and secure digital solutions that enhance patient care, streamline clinical workflows, and support evidence-based medical practice.
 
 ### 🎯 Our Mission
 
@@ -68,6 +68,22 @@ Our repositories contain components of our **Integrated Healthcare Information S
 <sub>Organization Owner</sub><br />
 <sub>Healthcare IT Specialist</sub>
 </td>
+<td align="center">
+<a href="https://github.com/refandadicky">
+<img src="https://github.com/refandadicky.png" width="100px;" alt="Refanda Dicky"/><br />
+<sub><b>Refanda Dicky</b></sub>
+</a><br />
+<sub>Developer</sub><br />
+<sub>Junior Software Engineer</sub>
+</td>
+<td align="center">
+<a href="https://github.com/trisnaihb">
+<img src="https://github.com/trisnaihb.png" width="100px;" alt="Trisna Ihb"/><br />
+<sub><b>Trisna Ihb</b></sub>
+</a><br />
+<sub>Infrastructure & Operations</sub><br />
+<sub>Network and Infrastructure Support</sub>
+</td>
 </tr>
 </table>
 
@@ -78,6 +94,13 @@ Our repositories contain components of our **Integrated Healthcare Information S
 - Cybersecurity Professionals & IT Auditors
 - Quality Assurance Engineers
 - DevOps Engineers & System Administrators
+
+### 🏆 Achievements & Recognition
+
+**Digital Healthcare Excellence:**
+- ⭐ **5-Star Recognition from BPJS Kesehatan** - Recognized for exemplary digital transformation and optimal healthcare system integration
+- 🎯 **BPJS Integration Success** - Successfully implemented seamless integration with BPJS Kesehatan national health insurance system
+- 🌟 **Digital Transformation Leadership** - Pioneering digital healthcare innovation in Central Java region
 
 ### 🔒 Security & Compliance
 
@@ -121,7 +144,7 @@ Serving thousands of patients annually with:
 
 Selamat datang di organisasi GitHub resmi **RS Indriati Boyolali**. Kami menjadi pelopor transformasi digital dalam layanan kesehatan Indonesia melalui rekayasa perangkat lunak terdepan dan sistem informasi kesehatan terintegrasi.
 
-Sebagai institusi kesehatan terkemuka, kami berkomitmen mengembangkan solusi digital yang tangguh, terukur, dan aman untuk meningkatkan pelayanan pasien, merampingkan alur kerja klinis, dan mendukung pengambilan keputusan medis berbasis bukti.
+Sebagai institusi kesehatan terkemuka, kami berkomitmen mengembangkan solusi digital yang tangguh, terukur, dan aman untuk meningkatkan pelayanan pasien, merampingkan alur kerja klinis, dan mendukung praktik medis berbasis bukti.
 
 ### 🎯 Misi Kami
 
@@ -179,6 +202,22 @@ Repositori kami berisi komponen dari **Sistem Informasi Kesehatan Terintegrasi**
 <sub>Organization Owner</sub><br />
 <sub>Healthcare IT Specialist</sub>
 </td>
+<td align="center">
+<a href="https://github.com/refandadicky">
+<img src="https://github.com/refandadicky.png" width="100px;" alt="Refanda Dicky"/><br />
+<sub><b>Refanda Dicky</b></sub>
+</a><br />
+<sub>Developer</sub><br />
+<sub>Junior Software Engineer</sub>
+</td>
+<td align="center">
+<a href="https://github.com/trisnaihb">
+<img src="https://github.com/trisnaihb.png" width="100px;" alt="Trisna Ihb"/><br />
+<sub><b>Trisna Ihb</b></sub>
+</a><br />
+<sub>Infrastructure & Operations</sub><br />
+<sub>Network and Infrastructure Support</sub>
+</td>
 </tr>
 </table>
 
@@ -189,6 +228,13 @@ Repositori kami berisi komponen dari **Sistem Informasi Kesehatan Terintegrasi**
 - Cybersecurity Professionals & IT Auditors
 - Quality Assurance Engineers
 - DevOps Engineers & System Administrators
+
+### 🏆 Prestasi & Penghargaan
+
+**Keunggulan Kesehatan Digital:**
+- ⭐ **Penghargaan Bintang 5 dari BPJS Kesehatan** - Diakui atas transformasi digital yang luar biasa dan integrasi sistem kesehatan yang optimal
+- 🎯 **Kesuksesan Integrasi BPJS** - Berhasil mengimplementasikan integrasi seamless dengan sistem asuransi kesehatan nasional BPJS Kesehatan
+- 🌟 **Kepemimpinan Transformasi Digital** - Pelopor inovasi kesehatan digital di kawasan Jawa Tengah
 
 ### 🔒 Keamanan & Kepatuhan
 
@@ -210,7 +256,7 @@ Keamanan informasi adalah prioritas utama dalam layanan kesehatan. Praktik penge
 
 ### 🤝 Kolaborasi & Kontribusi
 
-Kami percaya pada kekuatan kolaborasi terbuka untuk memajukan teknologi kesehatan. Meskipun banyak sistem inti kami bersifat proprietary, kami secara aktif berkontribusi dan mendukung inisiatif open-source di bidang kesehatan.
+Kami percaya pada kekuatan kolaborasi terbuka untuk memajukan teknologi kesehatan. Meskipun banyak sistem inti kami bersifat proprietary, kami secara aktif berkontribusi dan mendukung inisiatif open-source kesehatan.
 
 Untuk pertanyaan kemitraan, kolaborasi teknis, atau informasi tentang sistem kami, silakan hubungi tim IT Management kami.
 
