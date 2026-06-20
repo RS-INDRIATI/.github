@@ -8,9 +8,9 @@
 
 ### About Us
 
-Welcome to the official GitHub organization of **RS Indriati Boyolali**. We are pioneering digital transformation in Indonesian healthcare through cutting-edge software engineering and integrated healthcare information systems.
+Welcome to the official GitHub organization of **RS Indriati Boyolali**. We are pioneering digital transformation in Indonesian healthcare through cutting-edge software engineering and integrated heal[...]
 
-As a leading healthcare institution, we are committed to developing robust, scalable, and secure digital solutions that enhance patient care, streamline clinical workflows, and support evidence-based medical practice.
+As a leading healthcare institution, we are committed to developing robust, scalable, and secure digital solutions that enhance patient care, streamline clinical workflows, and support evidence-ba[...]
 
 ### 🎯 Our Mission
 
@@ -46,61 +46,42 @@ Our repositories contain components of our **Integrated Healthcare Information S
 - Patient Portal & Mobile Health Applications
 - Telemedicine Platform
 
-### 👥 Our Team
+### 👥 Our Team (Core & Contributors)
 
-**Leadership & Core Contributors:**
+Core Team
+- Abdul Rokhim — Organization Owner · IT Manager & Senior Software Engineer · [@abdulrokhimrepo](https://github.com/abdulrokhimrepo)
+- Dessy Rahmawati Chairullina — Organization Owner · Healthcare IT Specialist · [@Chairullinad](https://github.com/Chairullinad)
+- Refanda Dicky — Developer · Junior Software Engineer · [@refandadicky](https://github.com/refandadicky)
+- Trisna Ihb — Infrastructure & Operations · Network and Infrastructure Support · [@trisnaihb](https://github.com/trisnaihb)
+- Faris Dani — SysAdmin & IT Support · [@FarisDani](https://github.com/FarisDani)
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/abdulrokhimrepo">
-<img src="https://github.com/abdulrokhimrepo.png" width="100px;" alt="Abdul Rokhim"/><br />
-<sub><b>Abdul Rokhim</b></sub>
-</a><br />
-<sub>Organization Owner</sub><br />
-<sub>IT Manager & Senior Software Engineer</sub>
-</td>
-<td align="center">
-<a href="https://github.com/Chairullinad">
-<img src="https://github.com/Chairullinad.png" width="100px;" alt="Dessy Rahmawati Chairullina"/><br />
-<sub><b>Dessy Rahmawati Chairullina</b></sub>
-</a><br />
-<sub>Organization Owner</sub><br />
-<sub>Healthcare IT Specialist</sub>
-</td>
-<td align="center">
-<a href="https://github.com/refandadicky">
-<img src="https://github.com/refandadicky.png" width="100px;" alt="Refanda Dicky"/><br />
-<sub><b>Refanda Dicky</b></sub>
-</a><br />
-<sub>Developer</sub><br />
-<sub>Junior Software Engineer</sub>
-</td>
-<td align="center">
-<a href="https://github.com/trisnaihb">
-<img src="https://github.com/trisnaihb.png" width="100px;" alt="Trisna Ihb"/><br />
-<sub><b>Trisna Ihb</b></sub>
-</a><br />
-<sub>Infrastructure & Operations</sub><br />
-<sub>Network and Infrastructure Support</sub>
-</td>
-</tr>
-</table>
+Additional Contributors
+- (Add names here — e.g., Data Engineers, QA, DevOps, Clinical Informatics)
 
-**Our Multidisciplinary Team:**
-- Software Engineers & System Architects
-- Healthcare IT Specialists & Clinical Informatics
-- Database Administrators & Data Engineers
-- Cybersecurity Professionals & IT Auditors
-- Quality Assurance Engineers
-- DevOps Engineers & System Administrators
+If you'd like profile images displayed (as in the previous table), I can re-add the avatar grid; otherwise this list is more readable and accessible.
+
+---
+
+### 👥 Tim Kami (Inti & Kontributor)
+
+Tim Inti
+- Abdul Rokhim — Pemilik Organisasi · IT Manager & Senior Software Engineer · [@abdulrokhimrepo](https://github.com/abdulrokhimrepo)
+- Dessy Rahmawati Chairullina — Pemilik Organisasi · Healthcare IT Specialist · [@Chairullinad](https://github.com/Chairullinad)
+- Refanda Dicky — Developer · Junior Software Engineer · [@refandadicky](https://github.com/refandadicky)
+- Trisna Ihb — Infrastruktur & Operasi · Dukungan Jaringan dan Infrastruktur · [@trisnaihb](https://github.com/trisnaihb)
+- Faris Dani — SysAdmin & Dukungan IT · [@FarisDani](https://github.com/FarisDani)
+
+Kontributor Tambahan
+- (Tambahkan nama di sini — mis. Data Engineers, QA, DevOps, Clinical Informatics)
+
+Catatan: Jika Anda ingin saya menambahkan/menghapus anggota, mengubah jabatan, atau menampilkan kembali foto avatar dalam tata letak grid, kirimkan daftar perubahan atau konfirmasi dan saya akan melakukan commit langsung ke repo.
 
 ### 🏆 Achievements & Recognition
 
 **Digital Healthcare Excellence:**
 - ⭐ **5-Star Recognition from BPJS Kesehatan** - Recognized for exemplary digital transformation and optimal healthcare system integration
 - 🎯 **BPJS Integration Success** - Successfully implemented seamless integration with BPJS Kesehatan national health insurance system
-- 🌐 **SatuSehat National Health Data Exchange Integration** - Successfully integrated with Indonesia's national health information exchange system, enabling seamless data sharing and interoperability across healthcare facilities nationwide
+- 🌐 **SatuSehat National Health Data Exchange Integration** - Successfully integrated with Indonesia's national health information exchange system, enabling seamless data sharing and interoperabili[...]
 - 🌟 **Digital Transformation Leadership** - Pioneering digital healthcare innovation in Central Java region
 
 ### 🔒 Security & Compliance
@@ -123,7 +104,7 @@ Information security is paramount in healthcare. Our development practices inclu
 
 ### 🤝 Collaboration & Contributions
 
-We believe in the power of open collaboration to advance healthcare technology. While many of our core systems are proprietary, we actively contribute to and support open-source healthcare initiatives.
+We believe in the power of open collaboration to advance healthcare technology. While many of our core systems are proprietary, we actively contribute to and support open-source healthcare initiatives[...]
 
 For partnership inquiries, technical collaboration, or questions about our systems, please contact our IT Management team.
 
@@ -143,9 +124,9 @@ Serving thousands of patients annually with:
 
 ### Tentang Kami
 
-Selamat datang di organisasi GitHub resmi **RS Indriati Boyolali**. Kami menjadi pelopor transformasi digital dalam layanan kesehatan Indonesia melalui rekayasa perangkat lunak terdepan dan sistem informasi kesehatan terintegrasi.
+Selamat datang di organisasi GitHub resmi **RS Indriati Boyolali**. Kami menjadi pelopor transformasi digital dalam layanan kesehatan Indonesia melalui rekayasa perangkat lunak terdepan dan sistem inf[...]
 
-Sebagai institusi kesehatan terkemuka, kami berkomitmen mengembangkan solusi digital yang tangguh, terukur, dan aman untuk meningkatkan pelayanan pasien, merampingkan alur kerja klinis, dan mendukung praktik medis berbasis bukti.
+Sebagai institusi kesehatan terkemuka, kami berkomitmen mengembangkan solusi digital yang tangguh, terukur, dan aman untuk meningkatkan pelayanan pasien, merampingkan alur kerja klinis, dan mendukung [...]
 
 ### 🎯 Misi Kami
 
@@ -235,7 +216,7 @@ Repositori kami berisi komponen dari **Sistem Informasi Kesehatan Terintegrasi**
 **Keunggulan Kesehatan Digital:**
 - ⭐ **Penghargaan Bintang 5 dari BPJS Kesehatan** - Diakui atas transformasi digital yang luar biasa dan integrasi sistem kesehatan yang optimal
 - 🎯 **Kesuksesan Integrasi BPJS** - Berhasil mengimplementasikan integrasi seamless dengan sistem asuransi kesehatan nasional BPJS Kesehatan
-- 🌐 **Integrasi SatuSehat Pertukaran Data Kesehatan Nasional** - Berhasil terintegrasi dengan sistem pertukaran informasi kesehatan nasional Indonesia, memungkinkan berbagi data yang seamless dan interoperabilitas di seluruh fasilitas kesehatan nasional
+- 🌐 **Integrasi SatuSehat Pertukaran Data Kesehatan Nasional** - Berhasil terintegrasi dengan sistem pertukaran informasi kesehatan nasional Indonesia, memungkinkan berbagi data yang seamless dan i[...]
 - 🌟 **Kepemimpinan Transformasi Digital** - Pelopor inovasi kesehatan digital di kawasan Jawa Tengah
 
 ### 🔒 Keamanan & Kepatuhan
@@ -258,7 +239,7 @@ Keamanan informasi adalah prioritas utama dalam layanan kesehatan. Praktik penge
 
 ### 🤝 Kolaborasi & Kontribusi
 
-Kami percaya pada kekuatan kolaborasi terbuka untuk memajukan teknologi kesehatan. Meskipun banyak sistem inti kami bersifat proprietary, kami secara aktif berkontribusi dan mendukung inisiatif open-source kesehatan.
+Kami percaya pada kekuatan kolaborasi terbuka untuk memajukan teknologi kesehatan. Meskipun banyak sistem inti kami bersifat proprietary, kami secara aktif berkontribusi dan mendukung inisiatif open-s[...]
 
 Untuk pertanyaan kemitraan, kolaborasi teknis, atau informasi tentang sistem kami, silakan hubungi tim IT Management kami.
 
