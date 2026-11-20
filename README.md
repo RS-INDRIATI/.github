@@ -79,6 +79,15 @@ Our repositories contain components of our **Integrated Healthcare Information S
 - Quality Assurance Engineers
 - DevOps Engineers & System Administrators
 
+### 🏆 Achievements & Recognition
+
+Our digital healthcare initiatives have received recognition for innovation and the integration of hospital services. These certificates recognize achievements in digital health services and hospital system integration:
+
+<p align="center">
+  <img src="profile/assets/Penghargaan%20RNE%20Menteri%20Kesehatan%202026%20(2).jpg" alt="Recognition from the Minister of Health for RNE, 2026" width="48%" />
+  <img src="profile/assets/Piagam%20Penghargaan%20Sistem%20Antrean%20Online,%20Klaim,%20E-SEP,%20Finger%20Print,%20Briging%20Farmasi%20dan%20EMR.jpeg" alt="Certificate recognizing online queue, claims, E-SEP, fingerprint, pharmacy bridging, and EMR systems" width="48%" />
+</p>
+
 ### 🔒 Security & Compliance
 
 Information security is paramount in healthcare. Our development practices include:
@@ -189,6 +198,15 @@ Repositori kami berisi komponen dari **Sistem Informasi Kesehatan Terintegrasi**
 - Cybersecurity Professionals & IT Auditors
 - Quality Assurance Engineers
 - DevOps Engineers & System Administrators
+
+### 🏆 Prestasi & Penghargaan
+
+Inisiatif layanan kesehatan digital kami mendapatkan apresiasi atas inovasi dan integrasi layanan rumah sakit. Piagam berikut mengapresiasi pencapaian dalam layanan kesehatan digital dan integrasi sistem rumah sakit:
+
+<p align="center">
+  <img src="profile/assets/Penghargaan%20RNE%20Menteri%20Kesehatan%202026%20(2).jpg" alt="Penghargaan RNE dari Menteri Kesehatan, 2026" width="48%" />
+  <img src="profile/assets/Piagam%20Penghargaan%20Sistem%20Antrean%20Online,%20Klaim,%20E-SEP,%20Finger%20Print,%20Briging%20Farmasi%20dan%20EMR.jpeg" alt="Piagam penghargaan sistem antrean online, klaim, E-SEP, fingerprint, bridging farmasi, dan EMR" width="48%" />
+</p>
 
 ### 🔒 Keamanan & Kepatuhan
 
