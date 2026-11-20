@@ -8,7 +8,7 @@
 
 ### About Us
 
-Welcome to the official GitHub organization of **RS Indriati Boyolali**. We lead digital transformation in regional healthcare by building secure, interoperable, and user-centered software solutions that improve patient care, support clinical staff, and enable data-driven decision making.
+Welcome to the official GitHub organization of **RS Indriati Boyolali**. We lead digital transformation in regional healthcare by building secure, interoperable, and user-centered software solutions that improve patient care, support clinical staff, and enable data-driven decision-making.
 
 Our repositories host components, integration tools, and documentation for systems used in the hospital environment. We maintain a mix of open-source utilities and internally managed projects that together form an Integrated Healthcare Information System.
 
@@ -110,7 +110,13 @@ Key systems and components maintained by our teams:
 
 ### 🏆 Achievements & Recognition
 
-We combine clinical and technical excellence to deliver measurable impact:
+Our digital healthcare initiatives have received recognition for innovation and the integration of hospital services:
+
+<p align="center">
+  <img src="profile/assets/Penghargaan%20RNE%20Menteri%20Kesehatan%202026%20(2).jpg" alt="Recognition from the Minister of Health for RNE, 2026" width="48%" />
+  <img src="profile/assets/Piagam%20Penghargaan%20Sistem%20Antrean%20Online,%20Klaim,%20E-SEP,%20Finger%20Print,%20Briging%20Farmasi%20dan%20EMR.jpeg" alt="Certificate recognizing online queue, claims, E-SEP, fingerprint, pharmacy bridging, and EMR systems" width="48%" />
+</p>
+
 - 5-Star recognition from BPJS Kesehatan for digital transformation efforts
 - Successful national BPJS integration and working connections to SatuSehat
 - Regional leadership in digital healthcare innovation and interoperability
@@ -149,7 +155,7 @@ We welcome collaboration with hospitals, developers, academic partners, and vend
 
 ### Tentang Kami
 
-Selamat datang di organisasi GitHub resmi **RS Indriati Boyolali**. Kami memimpin transformasi digital layanan kesehatan di wilayah kami dengan menghadirkan solusi perangkat lunak yang aman, dapat berinteroperasi, dan berfokus pada pengguna untuk meningkatkan pelayanan pasien dan mendukung tenaga kesehatan.
+Selamat datang di organisasi GitHub resmi **RS Indriati Boyolali**. Kami memimpin transformasi digital layanan kesehatan di wilayah kami dengan menghadirkan solusi perangkat lunak yang aman, dapat berinteroperasi, dan berfokus pada pengguna untuk meningkatkan pelayanan pasien serta mendukung tenaga kesehatan.
 
 Repositori kami berisi komponen sistem, alat integrasi, dan dokumentasi yang digunakan di lingkungan rumah sakit. Kami mengelola kombinasi utilitas open-source dan proyek internal yang menjadi bagian dari Sistem Informasi Kesehatan Terintegrasi.
 
@@ -251,9 +257,15 @@ Sistem dan komponen utama yang kami kelola:
 
 ### 🏆 Prestasi & Penghargaan
 
-Kami menggabungkan keunggulan klinis dan teknis untuk hasil nyata:
+Inisiatif layanan kesehatan digital kami mendapatkan apresiasi atas inovasi dan integrasi layanan rumah sakit:
+
+<p align="center">
+  <img src="profile/assets/Penghargaan%20RNE%20Menteri%20Kesehatan%202026%20(2).jpg" alt="Penghargaan RNE dari Menteri Kesehatan, 2026" width="48%" />
+  <img src="profile/assets/Piagam%20Penghargaan%20Sistem%20Antrean%20Online,%20Klaim,%20E-SEP,%20Finger%20Print,%20Briging%20Farmasi%20dan%20EMR.jpeg" alt="Piagam penghargaan sistem antrean online, klaim, E-SEP, fingerprint, bridging farmasi, dan EMR" width="48%" />
+</p>
+
 - Penghargaan 5-Bintang dari BPJS Kesehatan atas upaya transformasi digital
-- Integrasi dengan BPJS dan koneksi kerja ke SatuSehat
+- Integrasi BPJS dan koneksi kerja ke SatuSehat
 - Kepemimpinan regional dalam inovasi kesehatan digital dan interoperabilitas
 
 ### 🔒 Keamanan & Kepatuhan
